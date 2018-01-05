@@ -1,0 +1,122 @@
+/* ID-----------*/
+#viewBar{
+    margin: 0 auto;
+    width: 100px;
+}
+
+#photo{
+    width: 100%;
+    height: 217px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+}
+
+/*#titleBar{*/
+/*    position: fixed;*/
+/*    width: 100%;*/
+/*}*/
+#number{
+    float: right;
+}
+
+#post{
+       margin-top: 15px !important;
+       margin-bottom: 15px !important; 
+}
+
+/* CLASS--------*/
+.headPost{
+    margin: 0;
+    font-size: 1.3em;
+}
+
+
+.btn-group{
+    margin-top: 10px;
+}
+
+.form-control{
+    border:none;
+}
+
+.main{
+    background-color: white;
+}
+
+.btn-group button{
+    width: 32px;
+    height: 32px;
+    margin: 0px;
+    padding: 0px;
+}
+
+.nav {
+    width:1024px;
+    height:100%;
+    list-style:none;
+    margin:auto;
+}
+
+.nav li {
+    min-width:75px;
+    height:100%;
+    padding-left:10px;
+    padding-right:10px;
+    float:left;
+    text-align:center;
+}
+
+.nav-pills .nav-link.active, .nav-pills .show>.nav-link{
+    color:white;
+    background-color: grey;
+    margin: 5px;
+}
+.nav-pills .nav-link, .nav-pills .show>.nav-link{
+    color:grey;
+    background-color: white;
+    margin: 5px;
+}
+
+.col-4{
+    background-color: white;
+    padding: 0;
+    margin: auto auto;
+    height: 90%;
+}
+
+.tab-content{
+    overflow: scroll;
+    height: 657px;
+}
+/* TAG----------*/
+
+body{
+    background-color: #e2e2e2;
+}
+
+
+nav{
+        height: 46px !important;
+}
+
+p {
+    margin: 0 0 10px;
+}
+textarea{
+    margin: 0px;
+    border-style: solid;
+}
+
+ul{
+    text-align: center;
+}
+
+video{
+        height: 150px;
+}
+/*div {*/
+/*  border-top: 1px solid ;*/
+/*  border-right: 1px solid ;*/
+/*  border-bottom: 1px solid ;*/
+/*  border-left: 1px solid ;*/
+/*}*/
